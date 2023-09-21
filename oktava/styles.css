@@ -1,0 +1,4 @@
+body {background-color: rgb(162, 225, 236);}
+
+#button {position:absolute; height: 120px; width: 120px;}
+#counter {font-size: 50px;}
